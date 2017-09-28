@@ -157,7 +157,7 @@ name(_,"").
 
 short_desc(animal_science,"a cozy-looking, white-bricked old building.").
 short_desc(avenue,"").
-short_desc(bedroom,"").
+short_desc(bedroom,"A small, happy-looking room with 2 beds in it").
 short_desc(potion,"An oily black potion").
 short_desc(bone,"a large dark stone").
 short_desc(charged_bone,"A small piece of 'dragon' bone").
